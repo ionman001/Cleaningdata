@@ -1,0 +1,32 @@
+
+Below are the coloumns used in the final table of the submitted code
+
+These features were used to estimate variables of the feature vector for each pattern:  
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+tBodyAcc-XYZ: body acceleration on X,Y,Z axis. unit(m/s2)
+tGravityAcc-XYZ: Gravitational acceleration on X,Y,Z axis. unit(m/s2)
+tBodyAccJerk-XYZ : body acceleration due to jerk on X,Y,Z axis. unit(m/s2)
+tBodyGyro-XYZ : body gyroscope reading on X,Y,Z axis. unit(rad/s)
+tBodyGyroJerk-XYZ : : body gyroscope due to jerk reading on X,Y,Z axis. unit(rad/s)
+tBodyAccMag: Total magnitude of acceleration unit(m/s2)
+tGravityAccMag: Total magnitude of gravity acceleration. unit(m/s2)
+tBodyAccJerkMag: total body acceleration due to jerk unit(m/s2)
+tBodyGyroMag: Total body gyroscope maginitude  unit(rad/s)
+tBodyGyroJerkMag Total body gyroscope maginitude due to jerk  unit(rad/s)
+fBodyAcc-XYZ body acceleration on X,Y,Z axis. unit(m/s2)
+fBodyAccJerk-XYZ  acceleration on X,Y,Z axis due to jerk. unit(m/s2)
+fBodyGyro-XYZ body acceleration due to jerk on X,Y,Z axis. unit(m/s2)
+fBodyGyro-XYZ : body gyroscope reading on X,Y,Z axis. unit(rad/s)
+fBodyGyroJerk-XYZ : : body gyroscope due to jerk reading on X,Y,Z axis. unit(rad/s)
+tBodyAccMag: Total magnitude of acceleration unit(m/s2)
+tGravityAccMag: Total magnitude of gravity acceleration. unit(m/s2)
+tBodyAccJerkMag: total body acceleration due to jerk unit(m/s2)
+
+The set of variables that were estimated from these signals are: 
+
+mean(): Mean value
+std(): Standard deviation
+
+subject_ID : Unique number that differetiates between the subjects i.e the people on which the experiment was carrired out.
+Activity_type: It describes the activity of the users during which the experiment was carried out.
